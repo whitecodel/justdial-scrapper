@@ -1,9 +1,6 @@
 # justdial-scrapper
 A Repo For justdial scrapping
 
-### username == Admin
-### password == F6A72B4E8CEE535C69818ED9F8A4E
-
 # commends for linux use :-
 
 - git clone https://github.com/taczclub/justdial-scrapper 
