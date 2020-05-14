@@ -7,9 +7,9 @@ A Repo For justdial scrapping
 
 - cd justdial-scrapper
 
-- sudo sh requirements
+- sudo pip3 install -r requirements.txt
 
-- sudo python3 scrapper.py
+- sudo python3 -m sourcedefender scrapper.pye
 
 
 # Argument commends
