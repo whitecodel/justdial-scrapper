@@ -19,5 +19,6 @@ A Repo For justdial scrapping
 ### i == starting page for scraping
 ### j == end page for scraping
 ### c == csv file name without csv extension
+### p == proxy
 - sudo python3 scrapper.py -u https://www.justdial.com/Bandikui/Schools -i 1 -j 1 -c sample
 - sudo python3 scrapper.py -u https://www.justdial.com/Bandikui/Schools/page-1 -j 1 -c sample
