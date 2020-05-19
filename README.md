@@ -22,5 +22,5 @@ A Repo For justdial scrapping
 - ./scrapper -u https://www.justdial.com/Bandikui/Schools -i 1 -j 1 -c sample
 - ./scrapper -u https://www.justdial.com/Bandikui/Schools/page-1 -j 1 -c sample
 
-# for windows use :-
+# for windows version :-
 whatsapp me at 7976782803
