@@ -7,10 +7,7 @@ A Repo For justdial scrapping
 
 - cd justdial-scrapper
 
-- sudo pip3 install -r requirements.txt
-
-- python3 -m sourcedefender scrapper.pye
-
+- ./scrapper
 
 # Argument commends
 
@@ -20,5 +17,5 @@ A Repo For justdial scrapping
 ### j == end page for scraping
 ### c == csv file name without csv extension
 ### p == proxy
-- sudo python3 scrapper.py -u https://www.justdial.com/Bandikui/Schools -i 1 -j 1 -c sample
-- sudo python3 scrapper.py -u https://www.justdial.com/Bandikui/Schools/page-1 -j 1 -c sample
+- ./scrapper -u https://www.justdial.com/Bandikui/Schools -i 1 -j 1 -c sample
+- ./scrapper -u https://www.justdial.com/Bandikui/Schools/page-1 -j 1 -c sample
