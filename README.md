@@ -7,6 +7,8 @@ A Repo For justdial scrapping
 
 - cd justdial-scrapper
 
+- sudo chmod 777 scrapper
+
 - ./scrapper
 
 # Argument commends
@@ -19,3 +21,6 @@ A Repo For justdial scrapping
 ### p == proxy
 - ./scrapper -u https://www.justdial.com/Bandikui/Schools -i 1 -j 1 -c sample
 - ./scrapper -u https://www.justdial.com/Bandikui/Schools/page-1 -j 1 -c sample
+
+# for windows use :-
+whatsapp me at 7976782803
