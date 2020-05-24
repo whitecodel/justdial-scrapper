@@ -4,7 +4,7 @@ A Repo For justdial scrapping
 # linux video tutorial
 https://youtu.be/kiQayHlGMVU
 
-#windows video tutorial
+# windows video tutorial
 https://youtu.be/5eGcrszZCG0
 
 # commends for linux use :-
