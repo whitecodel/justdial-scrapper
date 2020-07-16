@@ -29,4 +29,4 @@ https://youtu.be/5eGcrszZCG0
 - ./scrapper -u https://www.justdial.com/Bandikui/Schools/page-1 -j 1 -c sample
 
 # for windows version :-
-whatsapp me at 7976782803
+mail me at bhawani@taczclub.com
